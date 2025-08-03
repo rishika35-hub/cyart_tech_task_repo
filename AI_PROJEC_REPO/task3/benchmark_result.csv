@@ -1,0 +1,5 @@
+Method,Output Length,Execution Time (s)
+NumPy,99951,0.011
+Pandas,99951,0.023
+NumExpr,99951,0.107
+Numba,99951,0.015

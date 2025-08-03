@@ -1,0 +1,1 @@
+Natural Language Processing (NLP) is a field of Artificial Intelligence that enables machines to understand, interpret, and generate human language. NLP is used in applications like sentiment analysis, chatbots, machine translation, and speech recognition. Tools such as NLTK and spaCy are commonly used in Python for text processing.

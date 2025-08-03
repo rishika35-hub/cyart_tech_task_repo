@@ -16,8 +16,8 @@ These presentations are based on the popular 3Blue1Brown YouTube series and supp
 
 AI_PROJECT_REPO/
 └── mathematics_presentation/
-├── linear_algebra.ppt
-└── calculus.ppt
+├── linear_algebra.pptx
+└── Calculus.pptx
 └── README.md
 
 
@@ -74,5 +74,6 @@ Then embed them like this:
 👨‍🏫 Presented By
 Rajnish Kumar Sharma
 B.Tech CSE (AI & ML)
+
 
 
